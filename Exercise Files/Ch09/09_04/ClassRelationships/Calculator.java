@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Calculator {
 
@@ -41,13 +40,4 @@ public class Calculator {
             System.out.println("Number formatting exception " + e.getMessage());
         }
     }
-
-    class InputHelper {
-        private String getInput(String prompt) {
-            System.out.print(prompt);
-            Scanner sc = new Scanner(System.in);
-            return sc.nextLine();
-        }
-    }
-
 }
