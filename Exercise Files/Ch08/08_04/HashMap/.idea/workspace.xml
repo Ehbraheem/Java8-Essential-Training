@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f402c33-ea20-4bc6-94ca-c6d251836d56" name="Default" comment="" />
+    <list default="true" id="fa41d299-3da5-4179-81ef-5f94ce545f9d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +15,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -42,6 +42,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="1" />
+    <option name="width" value="561" />
+    <option name="height" value="688" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -57,21 +63,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ArrayList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArrayList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArrayList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -79,10 +89,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,7 +98,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\prof.BOLA\Desktop\Ex_Files_JavaEssT_Q32015\Exercise Files\Ch08\08_03\ArrayList\src\com\example\java" />
+      <recent name="C:\Users\prof.BOLA\Desktop\Ex_Files_JavaEssT_Q32015\Exercise Files\Ch08\08_04\HashMap\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -195,17 +201,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f402c33-ea20-4bc6-94ca-c6d251836d56" name="Default" comment="" />
-      <created>1502089206213</created>
+      <changelist id="fa41d299-3da5-4179-81ef-5f94ce545f9d" name="Default" comment="" />
+      <created>1502089503606</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502089206213</updated>
-      <workItem from="1502089257692" duration="95000" />
+      <updated>1502089503606</updated>
+      <workItem from="1502089541744" duration="104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95000" />
+    <option name="totallyTimeSpent" value="104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
@@ -251,7 +257,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/example/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
