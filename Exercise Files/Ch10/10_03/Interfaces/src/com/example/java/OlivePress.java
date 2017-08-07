@@ -4,11 +4,13 @@ import com.example.java.model.Olive;
 
 import java.util.List;
 
-public class OlivePress {
+public class OlivePress implements Press {
+
+    private int currentOil;
 
 	public int getOil(List<Olive> olives) {
 
-		int totalOil = 0;
+		int totalOil = currentOil;
 		for (Olive o : olives) {
 			totalOil += o.crush();
 		}
@@ -16,5 +18,10 @@ public class OlivePress {
 		return totalOil;
 
 	}
+
+    @Override
+    public void setOil(int oil) {
+        currentOil = oil;
+    }
 
 }
