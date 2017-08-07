@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="794df926-bc5a-41e2-97a3-96c4b1c8f9f3" name="Default" comment="" />
+    <list default="true" id="283dc556-3d23-466b-b909-9f4270c9e610" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="272">
+              <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -70,23 +70,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TryCatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TryCatch" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiCatch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiCatch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TryCatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TryCatch" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiCatch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiCatch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TryCatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TryCatch" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiCatch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiCatch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,8 +93,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,20 +203,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="794df926-bc5a-41e2-97a3-96c4b1c8f9f3" name="Default" comment="" />
-      <created>1502079374219</created>
+      <changelist id="283dc556-3d23-466b-b909-9f4270c9e610" name="Default" comment="" />
+      <created>1502079753329</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502079374219</updated>
-      <workItem from="1502079381180" duration="173000" />
+      <updated>1502079753329</updated>
+      <workItem from="1502079774714" duration="576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173000" />
+    <option name="totallyTimeSpent" value="576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -259,8 +260,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/example/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        <state relative-caret-position="272">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding />
         </state>
       </provider>
